@@ -39,4 +39,4 @@ The script will automatically read the configuration file, compile a unique list
 
 ## Disclaimer
 
-This repository is intended solely for educational, archival, and research purposes. All media assets, video clips, and promotional materials are the intellectual property of their respective copyright holders. The author of this script does not host, re-upload, or own any of the media elements, and is not responsible for how individuals choose to share, distribute, or use the downloaded videos online.[cite: 1]
+This repository is intended solely for educational, archival, and research purposes. All media assets, video clips, and promotional materials are the intellectual property of their respective copyright holders. The author of this script does not host, re-upload, or own any of the media elements, and is not responsible for how individuals choose to share, distribute, or use the downloaded videos online.
