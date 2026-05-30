@@ -1,3 +1,5 @@
+#All subserviantghostface CLIPS
+
 # Subservient Ghostface Video Downloader
 
 An automated tool designed to extract and download all unique promotional video assets from the interactive Ghostface website. By parsing the underlying front-end command mapping configuration, this script eliminates duplicates and downloads every active `.webm` clip cleanly to your local machine.
