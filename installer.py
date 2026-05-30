@@ -3,9 +3,9 @@ import os
 import requests
 
 # Configuration
-INPUT_FILE = "subserviantghostfacevideos.txt"
+INPUT_FILE = "subservientghostfacevideos.txt"
 OUTPUT_FOLDER = "ghostface_clips"
-BASE_URL = "https://subserviantghostface.com/clips/"
+BASE_URL = "https://subservientghostface.com/clips/"
 
 # Create output folder if it doesn't exist
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
