@@ -10,7 +10,6 @@ Install the required dependency using pip:
 
 ```bash
 pip install requests
-```[cite: 1]
 ```
 ## Project Structure
 
