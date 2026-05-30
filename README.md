@@ -1,4 +1,4 @@
-#All subserviantghostface CLIPS
+# All subserviantghostface CLIPS
 
 # Subservient Ghostface Video Downloader
 
